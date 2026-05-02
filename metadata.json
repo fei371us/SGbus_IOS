@@ -1,0 +1,6 @@
+{
+  "name": "SG BUS",
+  "description": "Minimalist Singapore bus enquiry application with real-time arrivals and route information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
